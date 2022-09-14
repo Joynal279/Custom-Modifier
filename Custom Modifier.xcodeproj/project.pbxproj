@@ -11,6 +11,7 @@
 		F261543F28D17A7D001B607D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F261543E28D17A7D001B607D /* ContentView.swift */; };
 		F261544128D17A7E001B607D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F261544028D17A7E001B607D /* Assets.xcassets */; };
 		F261544428D17A7E001B607D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F261544328D17A7E001B607D /* Preview Assets.xcassets */; };
+		F261544B28D17B60001B607D /* StandardTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = F261544A28D17B60001B607D /* StandardTitle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F261543E28D17A7D001B607D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F261544028D17A7E001B607D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F261544328D17A7E001B607D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F261544A28D17B60001B607D /* StandardTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandardTitle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				F261543C28D17A7D001B607D /* Custom_ModifierApp.swift */,
 				F261543E28D17A7D001B607D /* ContentView.swift */,
+				F261544A28D17B60001B607D /* StandardTitle.swift */,
 				F261544028D17A7E001B607D /* Assets.xcassets */,
 				F261544228D17A7E001B607D /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F261543F28D17A7D001B607D /* ContentView.swift in Sources */,
+				F261544B28D17B60001B607D /* StandardTitle.swift in Sources */,
 				F261543D28D17A7D001B607D /* Custom_ModifierApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
